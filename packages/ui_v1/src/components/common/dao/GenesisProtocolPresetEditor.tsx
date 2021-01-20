@@ -20,7 +20,7 @@ import GenesisProtocolEditor from "./GenesisProtocolEditor";
 import {
   GenesisProtocolForm,
   GenesisProtocolPreset
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 
 interface Props {
   form: GenesisProtocolForm;

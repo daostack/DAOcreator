@@ -1,5 +1,5 @@
 {
-  "name": "@dorgtech/daocreator-lib",
+  "name": "@daostack/daocreator-lib",
   "version": "1.0.3",
   "main": "dist/index.js",
   "license": "MIT",

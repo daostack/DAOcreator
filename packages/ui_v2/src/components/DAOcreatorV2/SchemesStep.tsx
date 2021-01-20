@@ -3,7 +3,7 @@ import {
   SchemesForm,
   ContributionRewardForm,
   SchemeRegistrarForm
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 
 import SchemeEditor, { DAOSpeed } from "../commonV2/dao/Schemes/SchemeEditor";
 

@@ -13,7 +13,7 @@ import {
   Collapse
 } from "@material-ui/core";
 import { SvgIconProps } from "@material-ui/core/SvgIcon";
-import { AnySchemeForm } from "@dorgtech/daocreator-lib";
+import { AnySchemeForm } from "@daostack/daocreator-lib";
 import GenesisProtocolPresetEditor from "./GenesisProtocolPresetEditor";
 import GenesisProtocolAnalytics from "./GenesisProtocolAnalytics";
 import FormField from "../FormField";

@@ -20,7 +20,7 @@ import {
   PercentageField,
   AddressField,
   NumberField
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 import "./styles.css";
 
 export interface Props<TField = AnyField> {

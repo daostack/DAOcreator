@@ -8,7 +8,7 @@ import {
   Typography
 } from "@material-ui/core";
 import QuestionIcon from "@material-ui/icons/HelpOutline";
-import { Member } from "@dorgtech/daocreator-lib";
+import { Member } from "@daostack/daocreator-lib";
 import PieChart from "../PieChart";
 
 // eslint-disable-next-line

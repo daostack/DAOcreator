@@ -1,5 +1,5 @@
 import React, { useState, FC, Fragment, useEffect, useCallback } from "react";
-import { MemberForm, MembersForm, getWeb3 } from "@dorgtech/daocreator-lib";
+import { MemberForm, MembersForm, getWeb3 } from "@daostack/daocreator-lib";
 import { MDBBox, MDBContainer, MDBRow } from "mdbreact";
 
 import { MemberEditor, MembersAnalytics, MembersTable } from "./";

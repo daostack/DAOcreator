@@ -31,7 +31,7 @@ import {
   DateTimeField,
   PercentageField,
   AddressField
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 import EthAddressAvatar from "../EthAddressAvatar";
 
 export interface Props {

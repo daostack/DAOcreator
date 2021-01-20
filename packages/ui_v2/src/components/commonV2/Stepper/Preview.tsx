@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 
-import { MembersForm, SchemesForm, DAOConfigForm } from "@dorgtech/daocreator-lib";
+import { MembersForm, SchemesForm, DAOConfigForm } from "@daostack/daocreator-lib";
 
 import LineGraphic from "../LineGraphic";
 import { MDBIcon, MDBRow, MDBCol } from "mdbreact";

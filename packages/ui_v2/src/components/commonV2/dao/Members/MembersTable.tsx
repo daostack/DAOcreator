@@ -1,5 +1,5 @@
 import React, { Fragment, FC } from "react";
-import { MemberForm } from "@dorgtech/daocreator-lib";
+import { MemberForm } from "@daostack/daocreator-lib";
 import {
   MDBRow,
   MDBContainer,

@@ -21,7 +21,7 @@ import {
   ContributionRewardForm,
   SchemeRegistrarForm,
   SchemeType
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 
 // eslint-disable-next-line
 interface Props extends WithStyles<typeof styles> {

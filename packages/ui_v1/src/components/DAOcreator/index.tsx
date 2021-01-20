@@ -27,7 +27,7 @@ import {
   fromJSON,
   setWeb3Provider,
   ProviderOrGetter
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 import ArrowBack from "@material-ui/icons/ArrowBackIos";
 import ArrowForward from "@material-ui/icons/ArrowForwardIos";
 import SupportIcon from "@material-ui/icons/ContactSupport";
@@ -344,7 +344,7 @@ class DAOcreator extends React.Component<Props, State> {
               className={classes.fab}
               size="small"
               onClick={() =>
-                window.open("https://dorgtech.typeform.com/to/IaeXKv")
+                window.open("https://daostack.typeform.com/to/IaeXKv")
               }
             >
               <SupportIcon />

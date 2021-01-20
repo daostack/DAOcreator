@@ -1,6 +1,6 @@
 import * as React from "react";
 import { Grid } from "@material-ui/core";
-import { MemberForm } from "@dorgtech/daocreator-lib";
+import { MemberForm } from "@daostack/daocreator-lib";
 import FormField from "../FormField";
 
 interface Props {

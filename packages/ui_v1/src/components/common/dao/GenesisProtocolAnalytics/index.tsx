@@ -13,7 +13,7 @@ import { analyzeField, AnalysisResult } from "./utils";
 import {
   GenesisProtocolForm,
   GenesisProtocol as GP
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 
 // eslint-disable-next-line
 interface Props extends WithStyles<typeof styles> {
@@ -166,7 +166,7 @@ class GenesisProtocolAnalytics extends React.Component<Props> {
   }
 }
 
-// TODO: make this into a "DateTime" dependency in the @dorgtech/daocreator-lib when
+// TODO: make this into a "DateTime" dependency in the @daostack/daocreator-lib when
 // that field view is made
 const secondsToDays = (seconds: number): number => {
   return seconds / 86400;

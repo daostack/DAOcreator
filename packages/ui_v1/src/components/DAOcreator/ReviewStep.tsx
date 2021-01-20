@@ -9,7 +9,7 @@ import {
 } from "@material-ui/core";
 import WarningIcon from "@material-ui/icons/WarningTwoTone";
 import EditIcon from "@material-ui/icons/Settings";
-import { DAOForm, SchemeType } from "@dorgtech/daocreator-lib";
+import { DAOForm, SchemeType } from "@daostack/daocreator-lib";
 import SchemesEditor from "../common/dao/SchemesEditor";
 import DAOConfigEditor from "../common/dao/DAOConfigEditor";
 import MembersEditor from "../common/dao/MembersEditor";

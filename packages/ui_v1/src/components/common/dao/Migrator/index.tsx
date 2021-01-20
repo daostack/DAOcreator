@@ -50,7 +50,7 @@ import {
   toJSON,
   getNetworkName,
   getWeb3
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 
 const FileSaver = require("file-saver");
 

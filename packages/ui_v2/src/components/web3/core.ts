@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from "react";
-import { getWeb3 } from "@dorgtech/daocreator-lib";
+import { getWeb3 } from "@daostack/daocreator-lib";
 
 type Network = {
   [id: number]: string;

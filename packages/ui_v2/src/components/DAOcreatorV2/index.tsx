@@ -26,7 +26,7 @@ import {
   SchemeRegistrarForm,
   ProviderOrGetter,
   setWeb3Provider
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 
 import NamingStep from "./NamingStep";
 import MembersStep from "./MembersStep";

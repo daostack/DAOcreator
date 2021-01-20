@@ -18,7 +18,7 @@ import {
   SchemesForm,
   GenesisProtocolForm,
   AnyField
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 import VotingMachineEditor from "../VotingMachineEditor";
 import FormField from "../../FormField";
 import { VotingMachinePresets } from "./SchemeEditor";

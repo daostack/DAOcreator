@@ -3,7 +3,7 @@ import { MuiThemeProvider, createMuiTheme } from "@material-ui/core/styles";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import DAOcreator from "./DAOcreator";
 import defaultTheme, { CustomTheme } from "./theme";
-import { ProviderOrGetter } from "@dorgtech/daocreator-lib";
+import { ProviderOrGetter } from "@daostack/daocreator-lib";
 
 interface Props {
   theme?: CustomTheme;

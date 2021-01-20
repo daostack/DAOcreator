@@ -9,7 +9,7 @@ import {
   withStyles,
   WithStyles
 } from "@material-ui/core";
-import { DAOConfigForm, DAOForm } from "@dorgtech/daocreator-lib";
+import { DAOConfigForm, DAOForm } from "@daostack/daocreator-lib";
 import DAOConfigEditor from "../common/dao/DAOConfigEditor";
 import MigrationParamsImport from "../common/dao/MigrationParamsImport";
 

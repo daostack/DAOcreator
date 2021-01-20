@@ -15,7 +15,7 @@ import RemIcon from "@material-ui/icons/Remove";
 import EditIcon from "@material-ui/icons/Edit";
 import CheckIcon from "@material-ui/icons/Check";
 import ErrorIcon from "@material-ui/icons/Error";
-import { MemberForm, MembersForm, Member } from "@dorgtech/daocreator-lib";
+import { MemberForm, MembersForm, Member } from "@daostack/daocreator-lib";
 import MemberEditor from "./MemberEditor";
 import MembersSaveLoad from "./MembersSaveLoad";
 

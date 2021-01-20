@@ -11,7 +11,7 @@ import {
   DAOcreatorState,
   DAOMigrationResult,
   toDAOMigrationParams
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 import Migrator from "../common/dao/Migrator";
 
 // eslint-disable-next-line

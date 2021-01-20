@@ -10,7 +10,7 @@ import {
   Grid,
   Typography
 } from "@material-ui/core";
-import { MembersForm } from "@dorgtech/daocreator-lib";
+import { MembersForm } from "@daostack/daocreator-lib";
 import MembersEditor from "../common/dao/MembersEditor";
 import MembersAnalytics from "../common/dao/MembersAnalytics";
 

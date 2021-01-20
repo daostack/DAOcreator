@@ -17,7 +17,7 @@ import {
   toDAOMigrationParams,
   DAOMigrationParams,
   DAOForm
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 import { MDBBtn, MDBIcon, MDBTooltip } from "mdbreact";
 
 import { STEP } from "../../../commonV2/Stepper";

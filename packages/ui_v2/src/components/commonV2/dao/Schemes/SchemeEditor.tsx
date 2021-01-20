@@ -10,7 +10,7 @@ import {
   ContributionRewardForm,
   SchemeRegistrarForm,
   DurationField
-} from "@dorgtech/daocreator-lib";
+} from "@daostack/daocreator-lib";
 
 import AdvancedEditor from "./AdvancedEditor";
 import Toggle from "./Toggle";

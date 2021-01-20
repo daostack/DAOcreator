@@ -1,7 +1,7 @@
 import * as React from "react";
 import { observer } from "mobx-react";
 import { Card, CardContent, Typography } from "@material-ui/core";
-import { SchemesForm } from "@dorgtech/daocreator-lib";
+import { SchemesForm } from "@daostack/daocreator-lib";
 import SchemesEditor from "../common/dao/SchemesEditor";
 
 interface Props {
