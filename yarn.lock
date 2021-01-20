@@ -1124,9 +1124,9 @@
     "@devexpress/dx-core" "2.4.1"
     prop-types "^15.7.2"
 
-"@dorgtech/daocreator-lib@1.0.0":
+"@daostackh/daocreator-lib@1.0.0":
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@dorgtech/daocreator-lib/-/daocreator-lib-1.0.0.tgz#02055a08472861d326a12fde14072bd96f285236"
+  resolved "https://registry.yarnpkg.com/@daostackh/daocreator-lib/-/daocreator-lib-1.0.0.tgz#02055a08472861d326a12fde14072bd96f285236"
   integrity sha512-nNMYutW95MPCI+c/7koutTV40ovhgXeTaQ0Zwg3wh104nUislOeuDWBvCjJx4CuCaYYd7En+BykDCFZQtm3aLQ==
   dependencies:
     bn.js "^5.0.0"
@@ -1136,9 +1136,9 @@
     jsonschema "^1.2.5"
     web3 "1.2.4"
 
-"@dorgtech/daocreator-lib@1.0.2":
+"@daostackh/daocreator-lib@1.0.2":
   version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@dorgtech/daocreator-lib/-/daocreator-lib-1.0.2.tgz#c309033f4016b1b5b4de8c9ced51875b277ce9fc"
+  resolved "https://registry.yarnpkg.com/@daostackh/daocreator-lib/-/daocreator-lib-1.0.2.tgz#c309033f4016b1b5b4de8c9ced51875b277ce9fc"
   integrity sha512-SkZHUSdlhP9ZYnX16yDiaMX4r5uCKUaDOKeB9jzw5I49g3ir02OejeXmyUpc77WjddVCZ9j09TlG+FKxNxmT/A==
   dependencies:
     bn.js "^5.0.0"
